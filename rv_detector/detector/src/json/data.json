@@ -1,0 +1,10 @@
+{
+
+    "yaw": -0.005,
+
+    "detector_color":0,
+
+    "max_angle":50.0,
+
+    "serial_name":"/dev/ttyACM0"
+}
